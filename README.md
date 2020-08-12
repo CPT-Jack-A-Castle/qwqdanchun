@@ -1,3 +1,7 @@
+### 访客统计
+
+![访客统计](https://count.getloli.com/get/@qwqdanchun?theme=konachan "访客统计")
+
 ### qwqdanchun/簞純
 
 **这里是簞純，一只野生程序猿**
