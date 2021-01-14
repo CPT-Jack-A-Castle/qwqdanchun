@@ -23,8 +23,6 @@
 功能包括：远程shell，远程桌面，远程摄像头，文件管理，进程管理，远程录音，窗口通知，发送文件，注入文件，发送通知，远程聊天，打开网站，修改壁纸，键盘记录，文件查找，DDOS，加密勒索，关闭 Windows defender，锁屏，客户端关闭重启升级卸载，系统关机重启注销，绕过360添加权限维持，过UAC提权，获取电脑详细信息，轮播图，自动任务，互斥锁，进程保护，屏蔽个别客户端等
   - [DcBot](https://github.com/qwqdanchun/DcBot)：一个简单的僵尸网络Bot，因时间关系，目前只能算是半成品
   - [win10exp](https://github.com/qwqdanchun/win10exp)：仿照win10资源管理器制作的wordpress主题，demo可见    [blog](https://blog.qwqdanchun.com)
-  
-（第一个及第四个项目属于恶意软件，为避免滥用，均为私有仓库，故附打包文件链接： [GitHub.7z](https://file.qwqdanchun.com/Temp/GitHub.7z) ）
 
 ## 技术文章
 
