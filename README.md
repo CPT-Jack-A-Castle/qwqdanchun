@@ -1,6 +1,6 @@
 ### 访客统计
 
-![访客统计](https://count.getloli.com/get/@qwqdanchun?theme=konachan "访客统计")
+![访客统计](https://count.getloli.com/get/@qwqdanchun "访客统计")
 
 ### qwqdanchun/簞純
 
