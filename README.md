@@ -12,7 +12,6 @@
 - 爱好: 吃饭 , 睡觉 , 写代码
 - 博客: https://blog.qwqdanchun.com/
 - 邮箱: 287182701@qq.com \ admin@qwqdanchun.com
-- 简历: [resume.md](/resume.md "resume.md")  
 - 赞助: [Donate.md](/Donate.md "Donate.md")  
 
 
