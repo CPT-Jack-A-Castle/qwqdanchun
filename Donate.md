@@ -6,16 +6,6 @@
 ### 支付宝  
 <img src="./img/ZFB.jpg" width = "200" height = "300" alt="" align=center />
 
-### BTC  
-17BuN4qd7tQ6CQqCUAhRkhgjVpy41WRkTc
-
-### XMR  
-88fCANAsWH8EyeTu4cTPCiRqQ1oC84gioicB1HhGnwNRgBazSgodLj5N4VLY5bBoy4cWKp4XBK2Q8Z4JTtfmugC2RA5mUYm
-
-### USDT(ERC20)  
-0x041278d34ce5b5e1cdbe0ef316d9c49cf0cf3acb
-
-
 
 ### 赞助历史  
 | UserName  | Money |
